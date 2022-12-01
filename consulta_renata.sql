@@ -11,6 +11,8 @@
 
 
 
+create schema renata_y_namie_consulta authorization uhwcqusy;
+
 -- SELECT CON JOIN ---
 
 select m.model_name,
